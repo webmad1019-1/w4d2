@@ -29,7 +29,7 @@
 - Understand how databases provide a persistence layer
 - Mount a basic express
 - Get to install cool dependencies using NPM
-- Understand where these components fit in the backend schema
+- Understand where these components fit in the back end schema
 
 # Bonus
 
