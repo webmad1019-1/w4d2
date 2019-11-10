@@ -21,7 +21,7 @@
 
 ## Activities
 
-- Review over mongo queries
+- Review over Mongo queries
 - Develop a basic website using Express
 
 # Goals
