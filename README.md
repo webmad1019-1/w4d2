@@ -17,17 +17,17 @@
 - Talk about NPM
 - Talk about nosql vs sql databases
 - Basic CRUD operations
-- Basics about web servers and basic implementation of express
+- Basics about web servers and basic implementation of Express
 
 ## Activities
 
 - Review over mongo queries
-- Develop a basic website using express
+- Develop a basic website using Express
 
 # Goals
 
 - Understand how databases provide a persistence layer
-- Mount a basic express
+- Mount a basic Express
 - Get to install cool dependencies using NPM
 - Understand where these components fit in the back end schema
 
