@@ -24,7 +24,7 @@
 - Review over Mongo queries
 - Develop a basic website using Express
 
-# Tomorrow - day w4d3
+# Next - day w4d3
 
 - Work with server side templating
 - Using database helper libraries like Mongoose
