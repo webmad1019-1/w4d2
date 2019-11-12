@@ -38,6 +38,9 @@
 
 # Bonus
 
+Query operators summary in Mongo
+https://docs.mongodb.com/manual/reference/operator/query/
+
 More on SQL vs Non SQL databases
 https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
 
