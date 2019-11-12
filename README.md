@@ -40,3 +40,6 @@
 
 More on SQL vs Non SQL databases
 https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+
+ORMs vs ODMs
+https://medium.com/@julianam.tyler/what-is-the-difference-between-odm-and-orm-267bbb7778b0
