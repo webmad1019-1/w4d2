@@ -21,9 +21,9 @@ app.get("/helloPage", (req, res) => {
       <title>Document</title>
     </head>
     <body>
-      <h1>Hola ${Math.random() < 0.5 ? "Maria" : "Quique"}, viva Murcia</h1>
+      <h1>Hola ${Math.random() < 0.5 ? "Maria" : "Quique"}!, viva Murcia</h1>
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_Region_of_Murcia.svg"
+        src="img/murcia.svg"
       />
     </body>
   </html>
