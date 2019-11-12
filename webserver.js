@@ -8,6 +8,7 @@ const PORT = 3000;
 app.use(express.static("public"));
 
 app.get("/helloPageStatic", (req, res) => {
+  // needed to add /public for the views folder as per https://stackoverflow.com/a/25463996/1175555
   res.sendFile(__dirname + "/public/views/static.html");
 });
 
